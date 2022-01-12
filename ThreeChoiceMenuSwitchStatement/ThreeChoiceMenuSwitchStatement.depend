@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641905066 source:/home/prof-mohamed/Desktop/ITI-CLanguage-Tasks/ThreeChoiceMenuSwitchStatement/main.c
+	<stdio.h>
+	<stdlib.h>
+

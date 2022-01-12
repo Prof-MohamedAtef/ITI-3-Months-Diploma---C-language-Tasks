@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641907704 source:/home/prof-mohamed/Desktop/ITI-CLanguage-Tasks/NumOfAlphabetsInASentence/main.c
+	<stdio.h>
+	<stdlib.h>
+

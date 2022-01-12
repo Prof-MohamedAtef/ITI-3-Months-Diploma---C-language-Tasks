@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641869207 source:/home/prof-mohamed/Desktop/ITI-CLanguage-Tasks/FloatNumber/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641869511 source:/home/prof-mohamed/Desktop/ITI-CLanguage-Tasks/ASCII/main.c
+	<stdio.h>
+	<stdlib.h>
+

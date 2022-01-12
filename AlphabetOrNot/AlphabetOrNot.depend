@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641905903 source:/home/prof-mohamed/Desktop/ITI-CLanguage-Tasks/AlphabetOrNot/main.c
+	<stdio.h>
+	<stdlib.h>
+
