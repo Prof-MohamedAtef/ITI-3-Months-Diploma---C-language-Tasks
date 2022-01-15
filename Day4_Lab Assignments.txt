@@ -4,17 +4,17 @@ Day 4:
 Answer the following questions:
 --------------------------------
 
-1) C Program to take firstName and lastName from user, then displays fullName.
+1) C Program to take firstName and lastName from user, then displays fullName.  done
 
-2) Menu: use "gotoxy" and "clrscr"
+2) Menu: use "gotoxy" and "clrscr"                                   not yet               gotoxy done, pending clear function
 
-3) C Program to Find the Frequency of Characters in a String:
-	Example:  "Ahmed Ali" -> Frequency of 'A' in this string = 2
+3) C Program to Find the Frequency of Characters in a String:           done
+	Example:  "Ahmed Ali" -> Frequency of 'A' in this string = 2            
 
 Answer "as much as you can" from the following:
 ------------------------------------------------
 
-5- C Program to Copy String Without Using strcpy()
+5- C Program to Copy String Without Using strcpy()    done
 
-6- C Program to Find the Length of a String without Using strlen()
+6- C Program to Find the Length of a String without Using strlen()  done
 

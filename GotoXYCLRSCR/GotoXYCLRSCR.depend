@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642226225 source:/home/prof-mohamed/Desktop/ITI-CLanguage-Tasks/GotoXYCLRSCR/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

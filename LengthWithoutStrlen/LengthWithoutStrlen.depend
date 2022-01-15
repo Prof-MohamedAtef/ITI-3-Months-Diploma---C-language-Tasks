@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642235950 source:/home/prof-mohamed/Desktop/ITI-CLanguage-Tasks/LengthWithoutStrlen/main.c
+	<stdio.h>
+	<stdlib.h>
+
