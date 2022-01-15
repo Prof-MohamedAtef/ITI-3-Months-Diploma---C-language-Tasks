@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642042881 source:/home/prof-mohamed/Desktop/ITI-CLanguage-Tasks/SumRowsIn2D-Array/main.c
+	<stdio.h>
+	<stdlib.h>
+

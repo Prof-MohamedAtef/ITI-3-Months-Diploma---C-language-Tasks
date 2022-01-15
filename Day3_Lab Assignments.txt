@@ -4,17 +4,18 @@ Day 3:
 Answer the following questions:
 --------------------------------
 
-1- C Program to take an array elements from user, then print them out "using 2 for loops". (Print Array)
+1- C Program to take an array elements from user, then print them out "using 2 for loops". (Print Array)    done
 
-2- C Program to find the minimum & maximum value of array elements. (Min_Max Array)
+2- C Program to find the minimum & maximum value of array elements. (Min_Max Array) done
 
-3- C Program to find Sum of each row in a 2D Array. (3 std, 4 subjects)
+3- C Program to find Sum of each row in a 2D Array. (3 std, 4 subjects) done
 
 
 Answer "as much as you can" from the following:
 ------------------------------------------------
 
-- Calculate average of each column in a 2D Array.
+- Calculate average of each column in a 2D Array.  edit
 
-- C Program to add two matrix and put the result in a third one, then print the result.
-- Search for Magic Box algorithm and implement it with C language.
+- C Program to add two matrix and put the result in a third one, then print the result.     done
+
+- Search for Magic Box algorithm and implement it with C language.  edit

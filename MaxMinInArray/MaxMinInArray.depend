@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641991604 source:/home/prof-mohamed/Desktop/ITI-CLanguage-Tasks/MaxMinInArray/main.c
+	<stdio.h>
+	<stdlib.h>
+
