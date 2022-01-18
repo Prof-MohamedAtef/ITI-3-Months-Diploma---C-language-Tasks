@@ -9,6 +9,7 @@ int main()
     printf("%i\n", length_of_string(s));
     return 0;
 }
+
 int length_of_string(char *p){
         int count=0;
         while(p[count]!='\0'){

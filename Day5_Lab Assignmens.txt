@@ -1,0 +1,32 @@
+Day 5:
+=====
+
+Answer the following questions:
+--------------------------------
+
+1- Write a function takes 3 numbers as parameter, and returns the largest one among them... write a program to test it.
+
+
+2- Menu using "gotoxy" and "functions": 
+
+Draw this in the center of output screen
+
+	A ( + )
+	
+	B ( - )
+
+	C ( / )
+
+	D ( * )
+
+Enter your choice:_
+
+Switch on his choice,
+case A: ask him to enter 2 integers then call function Add
+case B: ask him to enter 2 integers then call function Subtract
+case C: ask him to enter 2 integers then call function Divid
+case D: ask him to enter 2 integers then call function Multiply
+ 
+program will end when he prees Esc button
+ 
+ 

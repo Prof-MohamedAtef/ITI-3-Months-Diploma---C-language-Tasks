@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642338180 source:/home/prof-mohamed/Desktop/ITI-CLanguage-Tasks/FuncGreatestParam/main.c
+	<stdio.h>
+	<stdlib.h>
+

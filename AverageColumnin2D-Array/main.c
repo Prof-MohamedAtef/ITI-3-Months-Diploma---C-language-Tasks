@@ -25,21 +25,32 @@ int main()
         strcat(color_destination,colors[i]);
         printf(color_destination);
         for(int j=0; j<subjects; j++){
-            printf("\n Student no. %d degree in subject no. %d is %d", i+1, j+1, degree[i][j]);
+            printf("\n Student no. %d degree in subject no. %d is %d\n", i+1, j+1, degree[i][j]);
         }
     }
 
     for(int i=0; i<students; i++){
-        sum=0;
-        for(int j=0; j<subjects; j++){
-            sum+=degree[i][j];
+        for(j=0; j<subjects; j++){
+            printf("%d ",degree[i][j]);
+            if(j==3){
+                printf("\n");
+            }
         }
-        average=sum/subjects;
-        printf("\033[0;32m");
-        printf("\n sum of degrees of student no. %d is %d", i+1, sum);
-        printf("\033[0;31m");
-        printf("\n average of degrees for student no. %d is %d", i+1, average);
     }
 
+
+    for(int i=0; i<subjects; i++){
+        sum=0;
+
+        for(j=0; j< students; j++){
+            sum+=degree[j][i];
+            average=0;
+            average=sum/students;
+        }
+        printf("\033[0;32m]");
+        printf("\n sum of degrees of column no. %d is %d", i+1, sum);
+        printf("\033[0;31m");
+        printf("\n average of degrees for column no. %d  is %d", i+1, average);
+    }
     return 0;
 }

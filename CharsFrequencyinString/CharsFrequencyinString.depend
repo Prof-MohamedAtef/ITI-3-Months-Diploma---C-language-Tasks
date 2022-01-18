@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642379375 source:/home/prof-mohamed/Desktop/ITI-CLanguage-Tasks/CharsFrequencyinString/main.c
+	<stdio.h>
+	<stdlib.h>
+
