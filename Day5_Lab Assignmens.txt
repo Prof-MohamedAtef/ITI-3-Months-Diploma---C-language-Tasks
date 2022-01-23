@@ -4,10 +4,10 @@ Day 5:
 Answer the following questions:
 --------------------------------
 
-1- Write a function takes 3 numbers as parameter, and returns the largest one among them... write a program to test it.
+1- Write a function takes 3 numbers as parameter, and returns the largest one among them... write a program to test it.     done
 
 
-2- Menu using "gotoxy" and "functions": 
+2- Menu using "gotoxy" and "functions":                 done 
 
 Draw this in the center of output screen
 

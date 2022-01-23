@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642423576 source:/home/prof-mohamed/Desktop/ITI-CLanguage-Tasks/6EmpStructInform/main.c
+	<stdio.h>
+	<stdlib.h>
+

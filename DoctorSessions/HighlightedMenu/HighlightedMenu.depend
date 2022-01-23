@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1642417878 source:c:\users\iti\desktop\highlightedmenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<MyLibrary.h>
+
+1642418389 source:d:\highlightedmenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<MyLibrary.h>
+

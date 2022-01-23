@@ -14,7 +14,7 @@ Answer the following questions:
 Answer "as much as you can" from the following:
 ------------------------------------------------
 
-- Calculate average of each column in a 2D Array.  edit
+- Calculate average of each column in a 2D Array.  done
 
 - C Program to add two matrix and put the result in a third one, then print the result.     done
 

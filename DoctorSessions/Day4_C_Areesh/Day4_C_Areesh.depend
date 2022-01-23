@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642069954 source:c:\users\iti\desktop\day4_c_areesh\main.c
+	<stdio.h>
+	<stdlib.h>
+	<MyLibrary.h>
+

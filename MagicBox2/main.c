@@ -12,12 +12,12 @@ int main()
     printf("Enter matrix numbers (one by one)... \n");
     for(int i =0;i <size; i++){
         for(int j=0; j<size; j++){
-            printf("for position %d%d", i, j);
+            printf("for position %d%d\n", i, j);
             scanf("%d", &matrix[i][j]);
         }
     }
 
-    printf("\n\nYour Matrix ...\n");
+   printf("\n\nYour Matrix ...\n");
     for(int i=0; i<size; i++){
         for(int j=0; j<size; j++){
             printf("%d", matrix[i][j]);
@@ -36,7 +36,7 @@ int main()
 
     int SumAux=0;int j=0;j--;j=size-1;
     for(int i=0;  i<size; i++ )
-        SumAux+=matrix[i][i];
+        SumAux+=matrix[j][i];
 
     if(sum!=SumAux){
         printf("Not a magic Square ...");

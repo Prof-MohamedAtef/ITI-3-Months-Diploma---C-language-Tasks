@@ -6,7 +6,7 @@ Answer the following questions:
 
 1) C Program to take firstName and lastName from user, then displays fullName.  done
 
-2) Menu: use "gotoxy" and "clrscr"                                   not yet               gotoxy done, pending clear function
+2) Menu: use "gotoxy" and "clrscr"                                   done      
 
 3) C Program to Find the Frequency of Characters in a String:           done
 	Example:  "Ahmed Ali" -> Frequency of 'A' in this string = 2            

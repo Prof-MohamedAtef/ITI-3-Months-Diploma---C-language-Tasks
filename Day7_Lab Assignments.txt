@@ -1,0 +1,29 @@
+Day 7:
+======
+Answer the following questions:
+--------------------------------
+
+1. Swap by Value , Swap by Address.
+
+
+2. Statically Allocated Array of 3 integers (Scan & Print array elements): 
+	- using Array Notation
+	- using Pointer Notation 
+
+
+3. Allocate 1D Array of float Dynamically "Ask user to input Array Size, use (malloc)",
+then print it multiplied by 3;
+
+
+4. Pointer to struct employee (pointer to 1 struct)
+ 
+
+5. Use (malloc function) to allocate array of Struct employee "Ask user to input Array Size"
+
+Bonus: 
+======
+
+- Single LineEditor
+
+
+
